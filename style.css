@@ -19,14 +19,16 @@
     border:  gray 0.5px solid; 
     text-align: center;
     width: 65%;
-    float:right;
-    
+    float:right; 
+    display: block;
+
 }
 #div5{
     color: black;
     border: lightskyblue 0.5px solid;
     text-align: center;
     width: 25%;
+    margin-top: 10px;
 }
 #div6{
     color: black;
@@ -35,8 +37,9 @@
     width: 65%; float: right;
 }
 #div7{
-    color: black;
-    border: red 0.5px solid;
+    color: black; 
+    border: red 0.5px solid; 
     text-align: center;
     width: 25%; float: left;
+    margin-top: 10px;
 }
