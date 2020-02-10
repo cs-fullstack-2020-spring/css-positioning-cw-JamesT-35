@@ -8,12 +8,14 @@
     border: purple 0.5px solid;
     text-align: center;
 }
+/* floating div3 and div5 to the right would allow div4 to sit right next to them */
 #div3{
     color: black;
     border: green 0.5px solid;
     text-align: center;
     width: 25%;
 }
+/* div4 and div6 should have padding (notice that they are taller than div3, div5, and div7) */
 #div4{
     color: black;
     border:  gray 0.5px solid; 
@@ -23,6 +25,7 @@
     display: block;
 
 }
+/*  */
 #div5{
     color: black;
     border: lightskyblue 0.5px solid;
